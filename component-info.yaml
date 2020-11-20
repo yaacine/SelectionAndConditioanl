@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SelectionAndConditioanl
+  description: SelectionAndConditioanl desc
+  tags:
+    - flutter
+    - ios
+    - android
+  annotations:
+    github.com/project-slug: yaacine/SelectionAndConditioanl
+    backstage.io/techdocs-ref: github:https://github.com/yaacine/SelectionAndConditioanl
+spec:
+  type: mobile_app
+  lifecycle: experimental
+  owner: yaacine
